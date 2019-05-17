@@ -1,0 +1,27 @@
+C:\Users\Mihhail\AppData\Local\Temporary Projects\Crazy Button\bin\Debug\Crazy Button.exe.config
+C:\Users\Mihhail\AppData\Local\Temporary Projects\Crazy Button\bin\Debug\Crazy Button.exe
+C:\Users\Mihhail\AppData\Local\Temporary Projects\Crazy Button\bin\Debug\Crazy Button.pdb
+C:\Users\Mihhail\AppData\Local\Temporary Projects\Crazy Button\bin\Debug\Crazy Button.xml
+C:\Users\Mihhail\AppData\Local\Temporary Projects\Crazy Button\obj\Debug\Crazy_Button.Form1.resources
+C:\Users\Mihhail\AppData\Local\Temporary Projects\Crazy Button\obj\Debug\Crazy_Button.Resources.resources
+C:\Users\Mihhail\AppData\Local\Temporary Projects\Crazy Button\obj\Debug\Crazy Button.vbproj.GenerateResource.Cache
+C:\Users\Mihhail\AppData\Local\Temporary Projects\Crazy Button\obj\Debug\Crazy Button.exe
+C:\Users\Mihhail\AppData\Local\Temporary Projects\Crazy Button\obj\Debug\Crazy Button.xml
+C:\Users\Mihhail\AppData\Local\Temporary Projects\Crazy Button\obj\Debug\Crazy Button.pdb
+C:\Users\Mihhail\Documents\Visual Studio 2013\Projects\Crazy Button\Crazy Button\bin\Debug\Crazy Button.exe.config
+C:\Users\Mihhail\Documents\Visual Studio 2013\Projects\Crazy Button\Crazy Button\obj\Debug\Crazy Button.exe
+C:\Users\Mihhail\Documents\Visual Studio 2013\Projects\Crazy Button\Crazy Button\obj\Debug\Crazy Button.xml
+C:\Users\Mihhail\Documents\Visual Studio 2013\Projects\Crazy Button\Crazy Button\obj\Debug\Crazy Button.pdb
+C:\Users\Mihhail\Documents\Visual Studio 2013\Projects\Crazy Button\Crazy Button\bin\Debug\Crazy Button.exe
+C:\Users\Mihhail\Documents\Visual Studio 2013\Projects\Crazy Button\Crazy Button\bin\Debug\Crazy Button.pdb
+C:\Users\Mihhail\Documents\Visual Studio 2013\Projects\Crazy Button\Crazy Button\bin\Debug\Crazy Button.xml
+C:\Users\Mihhail\Documents\Visual Studio 2013\Projects\Crazy Button\Crazy Button\obj\Debug\Crazy_Button.Form1.resources
+C:\Users\Mihhail\Documents\Visual Studio 2013\Projects\Crazy Button\Crazy Button\obj\Debug\Crazy_Button.Resources.resources
+C:\Users\Mihhail\Documents\Visual Studio 2013\Projects\Crazy Button\Crazy Button\obj\Debug\Crazy Button.vbproj.GenerateResource.Cache
+C:\Users\Mihhail\Documents\Visual Studio 2013\Projects\Crazy Button\Crazy Button\obj\Debug\Crazy_Button.Form2.resources
+C:\Users\Mihhail\Documents\Visual Studio 2013\Projects\Crazy Button\Crazy Button\obj\Debug\Crazy_Button.Form3.resources
+C:\Users\Mihhail\Documents\Visual Studio 2013\Projects\Crazy Button\Crazy Button\obj\Debug\Crazy_Button.Form4.resources
+C:\Users\Mihhail\Documents\Visual Studio 2013\Projects\Crazy Button\Crazy Button\obj\Debug\Crazy_Button.Form5.resources
+C:\Users\Mihhail\Documents\Visual Studio 2013\Projects\Crazy Button\Crazy Button\obj\Debug\Crazy_Button.Form6.resources
+C:\Users\Mihhail\Documents\Visual Studio 2013\Projects\Crazy Button\Crazy Button\obj\Debug\Crazy Button.vbprojResolveAssemblyReference.cache
+C:\Users\Mihhail\Documents\Visual Studio 2013\Projects\Crazy Button\Crazy Button\obj\Debug\Crazy_Button.Form7.resources
